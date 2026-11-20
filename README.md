@@ -1,0 +1,160 @@
+# Basta Manyaman, i Alvin ne yan! 💙
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0F172A,50:1D4ED8,100:38BDF8&height=200&section=header&text=VIN.&fontSize=65&fontColor=FFFFFF&animation=fadeIn&fontAlignY=45&desc=BSIT%20STUDENT%20%7C%20ASPIRING%20DEVELOPER&descSize=14&descAlignY=68" width="100%" />
+
+<br>
+
+**Basta Kapampangan, Manyaman!**
+
+*Do your best, and God will do the rest.*
+
+</div>
+
+---
+
+<div align="center">
+
+[ABOUT ME](#01--about-me) •
+[MYSELF](#02--myself) •
+[MIDTERM](#03--midterm-laboratory) •
+[FINAL](#04--final-laboratory)
+
+</div>
+
+---
+
+## 01 / About Me
+
+<div align="center">
+
+<img src="./assets/vin2.jpg" width="230" alt="Vin's profile photo" />
+
+### Hey, Welcome to my Portfolio! 👋
+
+**BS Information Technology Student at NU Clark**
+
+</div>
+
+I'm a student who enjoys exploring new things, learning different skills, and turning ideas into something meaningful. I believe that every experience is an opportunity to grow and improve.
+
+<details>
+<summary><b>✦ A little more about me</b></summary>
+
+• pogi 
+• handsome
+• cool
+• gwapo
+
+</details>
+
+---
+
+## 02 / Myself
+
+<table>
+<tr>
+<td width="50%" align="center">
+
+### 🍳 Cooking
+
+<img src="./assets/vin4.jpg" width="100%" alt="Cooking" />
+
+I enjoy cooking, experimenting with recipes, and trying different cuisines.
+
+</td>
+<td width="50%" align="center">
+
+### 🏐 Volleyball
+
+<img src="./assets/vin5.jpg" width="100%" alt="Volleyball" />
+
+I enjoy the competition, teamwork, and constantly improving my volleyball skills.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" align="center">
+
+### 🏔️ Hiking
+
+<img src="./assets/vin6.jpg" width="100%" alt="Hiking" />
+
+Exploring nature, discovering new places, and enjoying the outdoors.
+
+</td>
+<td width="50%" align="center">
+
+### 🏃 Running
+
+<img src="./assets/vin3.jpg" width="100%" alt="Running" />
+
+Staying active, challenging myself, and getting better every day.
+
+</td>
+</tr>
+</table>
+
+---
+
+## 03 / Midterm Laboratory
+
+<table>
+<tr>
+<td width="50%" align="center">
+
+### 📌 Lab Task 1: Using 2 Dimensional Arrays
+
+<img src="./assets/lab1-preview.jpg" width="320" alt="Lab Task 1 PDF preview" />
+
+[📄 View Whole PDF →](https://vinnyvin5.github.io/REPO-NAME/labs/midterm-lab1.pdf)
+
+</td>
+<td width="50%" align="center">
+
+### 📌 Lab Task 2: Using 3 Dimensional Arrays
+
+<img src="./assets/lab2-preview.jpg" width="320" alt="Lab Task 2 PDF preview" />
+
+[📄 View Whole PDF →](https://vinnyvin5.github.io/REPO-NAME/labs/midterm-lab2.pdf)
+
+</td>
+</tr>
+</table>
+
+---
+
+## 04 / Final Laboratory
+
+<table>
+<tr>
+<td width="50%">
+
+### 🚀 Final Lab 1: [Task Title]
+
+nyaman
+
+[View Activity →](./final-lab1)
+
+</td>
+<td width="50%">
+
+### 🚀 Final Lab 2: [Task Title]
+
+nyaman
+
+[View Activity →](./final-lab2)
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1D4ED8,100:38BDF8&height=100&section=footer" width="100%" />
+
+</div>
